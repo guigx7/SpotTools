@@ -3,6 +3,8 @@
 import { Route, Routes } from "react-router-dom";
 import { Home } from "./pages/Home/Home";
 import { PlaylistSorter } from "./pages/PlaylistSorter/PlaylistSorter";
+import './styles/Global.css'
+
 
 export function App() {
   return (
